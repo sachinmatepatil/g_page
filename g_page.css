@@ -1,0 +1,39 @@
+ul{
+	word-spacing: 30px;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	float: right;
+}
+li{
+	display: inline;
+}
+
+img{
+	padding-top: 50px;
+	margin-left: 450px;
+}
+
+form{
+	padding-top: -25px;
+	margin-left: 450px;
+}
+
+button{
+	word-spacing:5px;
+	margin-top: 20px;
+}
+
+input{
+	height: 45px;
+	width:600px;
+	margin-left: -150px;
+}
+
+.left{
+	float: left;
+}
+
+footer{
+	margin-top: 100px;
+}
